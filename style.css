@@ -1,0 +1,81 @@
+body{
+    
+    background-image: url(img/bg-gc-classicv2.jpg);
+    background-size:cover;
+    background-position: top;
+    position: relative;
+    height: 60vw;
+    margin: 0 0;
+    
+    justify-content: center;
+    align-items: center;
+    font-style: url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+    font-family: 'Roboto', sans-serif;;
+    font-size: 1.vw;
+    
+    
+}
+#menu{
+    background-color:  rgba(39, 82, 239, 0.8);
+    border-radius: 0.5vw;
+    width: 100%;
+    height: 5.5vw;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+}
+.icone img{
+    width: 11vw;
+    margin-left: 2vw;
+}
+.button{
+    margin-left: 4vw;
+    width: 7vw;
+
+}
+.button img{
+    width: 9vw;
+    filter:invert(0%);
+    transition: all 0.15s linear;
+}
+.button:hover img{
+    filter: invert(100%);
+}
+
+#conteudo{
+    width: 100%;
+    height: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    
+}
+
+.logo img{
+    margin-top: 20vw;
+    width: 40vw;
+    align-items: center; 
+    filter: invert(0%);
+}
+.logo::backdrop img{
+  filter: invert(100%);
+}
+.conteudo {
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin: 2vw;
+    text-align: center;
+    height: 100%;
+
+}
+
+.steam img{
+
+    align-items: center;
+}
+

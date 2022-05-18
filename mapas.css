@@ -1,0 +1,272 @@
+body{
+    
+    background-image: url(img/bg-gc-classicv2.jpg);
+    background-size:cover;
+    background-position: top;
+    position: relative;
+    height: 40vw;
+    margin: 0 0;
+    
+    justify-content: center;
+    align-items: center;
+    font-style: url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+    font-family: 'Roboto', sans-serif;;
+    font-size: 1.2vw;
+    
+    
+}
+#menu{
+    background-color:  rgba(39, 82, 239, 0.8);
+    border-radius: 0.5vw;
+    width: 100%;
+    height: 5.5vw;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+}
+.icone img{
+    width: 11vw;
+    margin-left: 2vw;
+}
+.button{
+    margin-left: 4vw;
+    width: 7vw;
+
+}
+.button img{
+    width: 9vw;
+    filter:invert(0%);
+    transition: all 0.15s linear;
+}
+.button:hover img{
+    filter: invert(100%);
+}
+
+
+#background{
+    background-color: rgba(31, 31, 31, 0.8);
+    margin-top: 7.5vw;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    height: 41vw;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.pagina h2{
+    background-image: radial-gradient(rgba(39, 82, 239, 0.8),rgba(31, 31, 31, 0.8));
+    margin-top: 3vw;
+    width: 100%;
+    height: 2.5vw;
+    text-align: center;
+    color: aliceblue;
+}
+.conteudo{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+}
+.conteudo img{
+    width: 45vw;
+}
+.xenia {
+    position: absolute;
+    left: 36.6vw;
+    top: 9.38vw;
+}
+.xenia img{
+    width: 13.23vw;
+    filter: brightness(20%);
+}.xenia:hover img{
+    filter: brightness(120%);
+
+}.Arquimidia {
+    position: absolute;
+    left: 52vw;
+    top: 6.7vw;
+}
+.Arquimidia img{
+    width: 16vw;
+    filter: brightness(20%);
+
+}.Arquimidia:hover img{
+    filter: brightness(120%);
+}
+.Aton {
+    position: absolute;
+    left: 55.2vw;
+    top: 15.76vw;
+}
+.Aton img{
+    width: 13vw;
+    filter: brightness(20%);
+
+}.Aton:hover img{
+    filter: brightness(170%);
+}
+.Ellia {
+    position: absolute;
+    left: 51.58vw;
+    top: 21.07vw;
+}
+.Ellia img{
+    width: 8.5vw;
+    filter: brightness(20%);
+
+}.Ellia:hover img{
+    filter: brightness(170%);
+}
+.FrostLand {
+    position: absolute;
+    left: 59.4vw;
+    top: 27.72vw;
+}
+.FrostLand img{
+    width: 3.7vw;
+    filter: brightness(20%);
+
+}.FrostLand:hover img{
+    filter: brightness(170%);
+}
+.Canaban {
+    position: absolute;
+    left: 35vw;
+    top: 23.41vw;
+}
+.Canaban img{
+    width: 10.7vw;
+    filter: brightness(20%);
+
+}.Canaban:hover img{
+    filter: brightness(170%);
+}
+.Serdin {
+    position: absolute;
+    left: 29.9vw;
+    top: 20.7vw;
+}
+.Serdin img{
+    width: 8.9vw;
+    filter: brightness(20%);
+
+}.Serdin:hover img{
+    filter: brightness(170%);
+}
+.Terra_da_prata {
+    position: absolute;
+    left: 46.4vw;
+    top: 27.3vw;
+}
+.Terra_da_prata img{
+    width: 4.7vw;
+    filter: brightness(20%);
+
+}.Terra_da_prata:hover img{
+    filter: brightness(170%);
+}
+.Trivia {
+    position: absolute;
+    left: 29vw;
+    top: 30vw;
+}
+.Trivia img{
+    width: 2.8vw;
+    filter: brightness(20%);
+
+}.Trivia:hover img{
+    filter: brightness(170%);
+}
+
+
+
+.xeniaNome {
+    position: absolute;
+    left: 40vw;
+    top: 17.7vw;
+}
+.xeniaNome img{
+    width: 7vw;
+}
+
+.ArquimidiaNome {
+    position: absolute;
+    left: 56vw;
+    top: 12.7vw;
+}
+.ArquimidiaNome img{
+    width: 7vw;
+
+}
+.AtonNome {
+    position: absolute;
+    left: 58.2vw;
+    top: 18.76vw;
+}
+.AtonNome img{
+    width: 7vw;
+
+}
+.ElliaNome {
+    position: absolute;
+    left: 51.58vw;
+    top: 25.07vw;
+}
+.ElliaNome img{
+    width: 7vw;
+
+}
+.FrostLandNome {
+    position: absolute;
+    left: 57.8vw;
+    top: 30.2vw;
+}
+.FrostLandNome img{
+    width: 7vw;
+}
+.CanabanNome {
+    position: absolute;
+    left: 36.9vw;
+    top: 27.9vw;
+}
+.CanabanNome img{
+    width: 7vw;
+
+}
+.SerdinNome {
+    position: absolute;
+    left: 30.9vw;
+    top: 22.7vw;
+}
+.SerdinNome img{
+    width: 7vw;
+
+}
+.Terra_da_prataNome {
+    position: absolute;
+    left: 46vw;
+    top: 30.3vw;
+}
+.Terra_da_prataNome img{
+    width: 7vw;
+}
+.TriviaNome {
+    position: absolute;
+    left: 31.5vw;
+    top: 32vw;
+}
+.TriviaNome img{
+    width: 7vw;
+
+}
+
