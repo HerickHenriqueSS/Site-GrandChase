@@ -9,5 +9,5 @@ O site tem o papel de mostrar todas as informações de cada personagem, mapas, 
 
 ## Modelos
 
-<img width="500em" src="https://github.com/HerickHenriqueSS/Site-GrandChase/blob/main/ImagesProjeto/Imagem%20projeto-grand-chase.png" alt="">
+<img width="800em" src="https://github.com/HerickHenriqueSS/Site-GrandChase/blob/main/ImagesProjeto/Imagem%20projeto-grand-chase.png" alt="">
 
