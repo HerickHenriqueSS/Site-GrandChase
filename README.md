@@ -3,7 +3,7 @@
 
 ## Projeto
 
-<a href="https://grandchasehhss.netlify.app" target="_blank"> Link para o projeto</a>
+<a href="https://grandchasehhss.netlify.app" target="_blank"> Link para o site!</a>
 
 Projeto GrandChase foi criado baseado no game "Grand-Chase" no periodo de aprendizagem das linguagens HTML5 e CSS3 no intuito da fixação de algumas "tags".
 
