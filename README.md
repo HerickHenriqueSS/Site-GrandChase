@@ -11,7 +11,7 @@ O site tem o papel de mostrar todas as informações de cada personagem, mapas, 
 
 ## Modelos
 
-### Pagina Inicial
+#### Pagina Inicial
 <img width="500em" src="https://github.com/HerickHenriqueSS/Site-GrandChase/blob/main/ImagesProjeto/Imagem%20projeto-grand-chase.png" alt=""><br>
 
 ## Autor
