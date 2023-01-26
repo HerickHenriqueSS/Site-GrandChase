@@ -14,6 +14,11 @@ O site tem o papel de mostrar todas as informações de cada personagem, mapas, 
 #### Pagina Inicial
 <img width="500em" src="https://github.com/HerickHenriqueSS/Site-GrandChase/blob/main/ImagesProjeto/Imagem%20projeto-grand-chase.png" alt=""><br>
 
+### Tecnologia utilizadas
+
+🔹 HTML5
+🔹 CSS3
+
 ## Autor
 
 Hérick Henrique Silveira Souza
