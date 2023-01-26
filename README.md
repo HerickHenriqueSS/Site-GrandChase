@@ -9,14 +9,14 @@ O site tem o papel de mostrar todas as informações de cada personagem, mapas, 
 
 ## Modelos
 
-Pagina Inicial
+### Pagina Inicial
 <img width="800em" src="https://github.com/HerickHenriqueSS/Site-GrandChase/blob/main/ImagesProjeto/Imagem%20projeto-grand-chase.png" alt=""><br>
 
-Pagina de Personagens
+### Pagina de Personagens
 <img width="800em" src="https://github.com/HerickHenriqueSS/Site-GrandChase/blob/main/ImagesProjeto/Projeto-grand-chase-personagens.png" alt=""><br> 
 
-Pagina de Mapas
+### Pagina de Mapas
 <img width="800em" src="https://github.com/HerickHenriqueSS/Site-GrandChase/blob/main/ImagesProjeto/Projeto-grand-chase-mapas.png" alt=""><br> 
 
-Pagina de Eventos
+### Pagina de Eventos
 <img width="800em" src="https://github.com/HerickHenriqueSS/Site-GrandChase/blob/main/ImagesProjeto/Projeto-grand-chase-eventos.png" alt=""><br> 
